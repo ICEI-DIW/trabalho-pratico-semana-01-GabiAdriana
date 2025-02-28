@@ -7,7 +7,7 @@ Nome: Gabriela Adriana de Souza Almeida
 Matricula: 824473
 
 ## Tela de inspeção com navegador
-
+![Erro](Imagens/Inspecao.png)
 
 ## Tela de projeto no Replit
 
